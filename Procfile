@@ -1,1 +1,1 @@
-worker: python3 mozvipway_bot.py
+worker: python3 mozvipway_bot.pyworker: python3 mozvipway_bot.py
